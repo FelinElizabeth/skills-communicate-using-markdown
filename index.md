@@ -6,3 +6,6 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+- [ ] Water the garden
+- [ ] Paint the fence
+- [ ] Feed the cats
